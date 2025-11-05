@@ -1,7 +1,7 @@
-# Pump.fun Smart Contract
+# lmao.fun Smart Contract
 
 ## Overview
-The **Pump.fun Smart Contract** is a Rust/Anchor smart contract designed for **Pump.fun**, facilitating various **decentralized finance (DeFi)** functionalities. This contract enables users to interact with **liquidity pools** and create **Raydium pools** on the Solana blockchain.
+The **lmao.fun Smart Contract** is a Rust/Anchor smart contract of **Pump.fun** style, facilitating various **decentralized finance (DeFi)** functionalities. This contract enables users to interact with **liquidity pools** and create **Raydium pools** on the Solana blockchain.
 
 ## Features
 - **Add Virtual LP**  
